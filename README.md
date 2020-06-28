@@ -35,4 +35,4 @@ Run the test suite to get started. You'll be writing all your code in the `lib/d
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-barking-dog' title='Barking Dog'>Barking Dog</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-barking-dog' title='Barking Dog'>Barking Dog</a> on Learn.co and start learning to code for free.</p
